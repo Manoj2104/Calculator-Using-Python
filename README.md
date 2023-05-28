@@ -12,5 +12,5 @@ Create your own Python Calculator App using Python and tkinter.
 
 ```shell packages
 pip install pyinstaller
-pyinstaller --onefile -w calc.py
+pyinstaller --onefile -w Calculator.py
 ```
